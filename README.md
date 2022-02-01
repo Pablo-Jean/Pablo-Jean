@@ -1,16 +1,13 @@
-### Hi there 👋
+## Abstract
 
-<!--
-**Pablo-Jean/Pablo-Jean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔖 I'm embedded developer, focused in firmware development, programming in C language and IDEs like Eclipse based (Code Composer, STM32CubeIDE).
 
-Here are some ideas to get you started:
+📟 I have experience with STMicroeletronics microcontrollers (STM8 and STM32), Texas Instruments (CC26x2, MSP430), nRF52810, Microchip 8-bit microcontrollers, and some others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Opinion
+
+💬 It's hard to code for miccrocontrollers, but the result is satisfatory.
+
+## 🎵
+
+> "My mother said to get things done." _David Bowie_
