@@ -4,9 +4,7 @@
 
 📟 I have experience with STMicroeletronics microcontrollers (STM8 and STM32), Texas Instruments (CC26x2, MSP430), nRF52810, Microchip 8-bit microcontrollers, and some others.
 
-# Opinion
-
-💬 It's hard to code for miccrocontrollers, but the result is satisfatory.
+I have to say!! Eclipse IDE is better than Visual Studio Code.
 
 ## 🎵
 
@@ -17,10 +15,3 @@
   <img height="180em" src="https://statstics-pablo-jean.vercel.app/api?username=pablo-jean&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://statstics-pablo-jean.vercel.app/api/top-langs/?username=pablo-jean&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
-
-  
- ### Profile Picture
-  
-  All rights of the profile picture belongs to his owner.
-  
-  This picture come from the Gravity Falls animation, appeared in Season 1.
